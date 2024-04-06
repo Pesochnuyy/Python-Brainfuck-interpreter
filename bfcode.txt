@@ -1,0 +1,14 @@
+Paste your BF code here:
+
+>+++++++++[<++++++++>-]<.>+++++++[<++++>-]<+.+++++++..+++.>>>++++++++[<++++>-]
+<.>>>++++++++++[<+++++++++>-]<---.<<<<.+++.------.--------.>>+.>++++++++++.
+
+This will print Hello World
+
+Any character except Brainfuck's operators will be perceived as a comment and will be ignored
+
+Note: nested loops are not yet supported
+i added a new operator: exclamation mark that prints out value of current slot and doesn't convert it to ascii like point does because its hard to convert a number
+to it's ascii value
+
+
